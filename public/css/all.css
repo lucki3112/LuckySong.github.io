@@ -1,0 +1,71 @@
+.title{
+    font-size: 24px;
+    color: white;
+    font-family: cursive;
+}
+nav{
+    background-color: #600FFF;
+}
+footer{
+    background-color: lightblue;
+    padding: 23px;
+    color: black;
+}
+
+.search{
+    padding: 43px;
+}
+ul{
+    list-style: none;
+    
+}
+li{
+    padding: 17px;
+}
+.container{
+    padding-top: 73px;
+}
+#play,#pause,#backword,#forward{
+    cursor: pointer;
+}
+
+.logo{
+    background-color: #600FFF;
+    position: fixed;
+left:0;
+bottom: 0;
+width: 100%;
+text-align: center;
+padding: 23px;
+}
+.myform{
+    padding-top: 123px;
+    border: 2px solid black;
+    padding-bottom: 175px;
+    padding-left: 23px;
+    background-color: purple;
+    color: white;
+    font-family: cursive;
+}
+.form-control{
+    width: 323px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+.admin{
+    display: flex;
+}
+.content{
+    padding-left: 23px;
+}
+.sidenav{
+    border: 2px solid black;
+    padding: 45px;
+    border-radius: 34px;
+}
